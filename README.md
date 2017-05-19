@@ -1,2 +1,2 @@
 # select-box
-add select box items using ng-options
+Add select box items using angular ng-options. By default first item will be selected from the data-list. 
